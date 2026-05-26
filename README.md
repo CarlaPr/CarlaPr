@@ -50,20 +50,4 @@ Tenho experiência prática com **metodologias ágeis (XP/Kanban)**, desenvolvim
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlaPr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaPr&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Filosofia
-
-> _"Código de qualidade e gestão eficiente caminham juntos para transformar problemas complexos em soluções de alto valor."_
-
----
-
-⭐ Sinta-se à vontade para explorar meus repositórios!  
 🤝 Aberta a conexões, colaborações em projetos Java e oportunidades na área de desenvolvimento.
